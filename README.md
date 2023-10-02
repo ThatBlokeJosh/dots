@@ -1,5 +1,10 @@
 # Welcome to my Dots
 
+### Dependencies
+```bash
+yay -S git neovim tmux zsh sway rofi 
+```
+
 ### Tmux
 
 #### Commands
