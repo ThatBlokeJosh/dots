@@ -1,1 +1,0 @@
-/tmp/tmphome/dotfiles/.config/tmux
